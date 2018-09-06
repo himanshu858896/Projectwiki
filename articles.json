@@ -1,0 +1,84 @@
+{ 
+    "_id" : ObjectId("5b18d712ffc63719d8b58360"), 
+    "atitle" : "Predictive models", 
+    "atype" : "Bug fixing", 
+    "aplatform" : "Machine Learning", 
+    "author" : "Himanshu", 
+    "aphoto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfNig68YpeMhNhCCIUxLdZOGQs7l-tecDSNqNbGR8Qk1FPJnq-", 
+    "atimestamp" : "2018-06-04 05:50:25", 
+    "description" : "These models of the relation between the specific performance of a unit in a sample and one or more known attributes or features of the unit. The objective of the model is to assess the likelihood that a similar unit in a different sample will exhibit the specific performance. This category encompasses models in many areas, such as marketing, where they seek out subtle data patterns to answer questions about customer performance, or fraud detection models. Predictive models often perform calculations during live transactions, for example, to evaluate the risk or opportunity of a given customer or transaction, in order to guide a decision. With advancements in computing speed, individual agent modeling systems have become capable of simulating human behaviour or reactions to given stimuli or scenarios.", 
+    "uniqueid" : "4", 
+    "deleted" : "false"
+}
+{ 
+    "_id" : ObjectId("5b18d724ffc63719d8b58361"), 
+    "description" : "We are entering a world in which it will be possible to run a 20,000-square-foot distribution center with a skeleton crew. Companies like Kiva Systems -- now Amazon Robotics -- use a combination of artificial intelligence and advanced robotics to provide big box retailers with unprecedented logistics solutions.\n\nWarehouses of the future will look nothing like they do today -- rather than being designed to accommodate human packers, they will be built for highly capable robots that can work 24/7 and don't require lighting to see what they are doing.\n\nKiva Systems, which was purchased by Amazon for $775 million in 2012, creates learning robots that can efficiently find and transport items in Amazon's warehouses. The technology is already being used today and is expected to play an increasingly prominent role in the company.", 
+    "atitle" : "Fuzzy logic", 
+    "atimestamp" : "2018-06-03 21:50:30", 
+    "aplatform" : "Artifical Intellegence", 
+    "author" : "Himanshu", 
+    "aphoto" : "http://www.housingeurope.eu/site/theme/_assets/img/type-publication.png", 
+    "atype" : "Development", 
+    "uniqueid" : "2", 
+    "deleted" : "false"
+}
+{ 
+    "_id" : ObjectId("5b18d734ffc63719d8b58362"), 
+    "atitle" : "Debug Your App", 
+    "atype" : "Developers", 
+    "aplatform" : "Android", 
+    "author" : "sagar", 
+    "aphoto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpt4ue4acc-j5U3zyoxVeYXovH0aEg0G9cWgIqkf4xdeclGK2QuA", 
+    "atimestamp" : "2018-06-02 20:12:12", 
+    "description" : "In the Debugger window, the Variables pane lets you inspect variables when the system stops your app on a breakpoint and you select a frame from the Frames pane. The Variables pane also lets you evaluate ad-hoc expressions using static methods and/or variables available within the selected frame.", 
+    "uniqueid" : "5", 
+    "deleted" : "false"
+}
+{ 
+    "_id" : ObjectId("5b18d743ffc63719d8b58363"), 
+    "atitle" : "Top Trends", 
+    "atype" : "Trend", 
+    "aplatform" : "Android", 
+    "author" : "Harshil", 
+    "aphoto" : "https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge_wm_brw/public/article_images/2018/03/android-p-logo-pixel-2-xl-5.jpg?itok=DB93lUGS", 
+    "atimestamp" : "2018-06-02 10:12:12", 
+    "description" : " Enterprise mobile apps", 
+    "uniqueid" : "6", 
+    "deleted" : "false"
+}
+{ 
+    "_id" : ObjectId("5b18d754ffc63719d8b58364"), 
+    "atitle" : "AI 2030", 
+    "atype" : "Development", 
+    "aplatform" : "Artifical Intellegence", 
+    "author" : "Himanshu", 
+    "aphoto" : "https://searchengineland.com/figz/wp-content/seloads/2017/10/smart-brain-ideas-ss-1920-800x450.gif", 
+    "atimestamp" : "2018-06-02 04:12:12", 
+    "description" : "The past few years have been landmark years for advancements in artificial intelligence.", 
+    "uniqueid" : "7", 
+    "deleted" : "false"
+}
+{ 
+    "_id" : ObjectId("5b18d767ffc63719d8b58365"), 
+    "atitle" : "Bussiness Economics", 
+    "atype" : "Bussiness", 
+    "aplatform" : "Economics", 
+    "author" : "admin", 
+    "aphoto" : "http://www.businessmodelcommunity.com/fs/Root/normal/dj7e0-bm.jpg", 
+    "atimestamp" : "2018-06-03 02:12:12", 
+    "description" : "BREAKING DOWN 'Business Economics'.", 
+    "uniqueid" : "8", 
+    "deleted" : "false"
+}
+{ 
+    "_id" : ObjectId("5b18d778ffc63719d8b58366"), 
+    "atitle" : "Support Vector Machine", 
+    "atype" : "Development", 
+    "aplatform" : "Machine Learning", 
+    "author" : "sagar", 
+    "aphoto" : "http://www.housingeurope.eu/site/theme/_assets/img/type-article.png", 
+    "atimestamp" : "2018-05-26 12:26:19", 
+    "description" : "In machine learning, support vector machines (SVMs, also support vector networks[1]) are supervised learning models with associated learning algorithms that analyze data used for classification and regression analysis. Given a set of training examples, each marked as belonging to one or the other of two categories, an SVM training algorithm builds a model that assigns new examples to one category or the other, making it a non-probabilistic binary linear classifier (although methods such as Platt scaling exist to use SVM in a probabilistic classification setting). An SVM model is a representation of the examples as points in space, mapped so that the examples of the separate categories are divided by a clear gap that is as wide as possible. New examples are then mapped into that same space and predicted to belong to a category based on which side of the gap they fall. In machine learning, support vector machines (SVMs, also support vector networks[1]) are supervised learning models with associated learning algorithms that analyze data used for classification and regression analysis. Given a set of training examples, each marked as belonging to one or the other of two categories, an SVM training algorithm builds a model that assigns new examples to one category or the other, making it a non-probabilistic binary linear classifier (although methods such as Platt scaling exist to use SVM in a probabilistic classification setting). An SVM model is a representation of the examples as points in space, mapped so that the examples of the separate categories are divided by a clear gap that is as wide as possible. New examples are then mapped into that same space and predicted to belong to a category based on which side of the gap they fall. In addition to performing linear classification, SVMs can efficiently perform a non-linear classification using what is called the kernel trick, implicitly mapping their inputs into high-dimensional feature spaces. When data are not labeled, supervised learning is not possible, and an unsupervised learning approach is required, which attempts to find natural clustering of the data to groups, and then map new data to these formed groups. The support vector clustering[2] algorithm created by Hava Siegelmann and Vladimir Vapnik, applies the statistics of support vectors, developed in the support vector machines algorithm, to categorize unlabeled data, and is one of the most widely used clustering algorithms in industrial applications. In machine learning, support vector machines (SVMs, also support vector networks[1]) are supervised learning models with associated learning algorithms that analyze data used for classification and regression analysis. Given a set of training examples, each marked as belonging to one or the other of two categories, an SVM training algorithm builds a model that assigns new examples to one category or the other, making it a non-probabilistic binary linear classifier (although methods such as Platt scaling exist to use SVM in a probabilistic classification setting). An SVM model is a representation of the examples as points in space, mapped so that the examples of the separate categories are divided by a clear gap that is as wide as possible. New examples are then mapped into that same space and predicted to belong to a category based on which side of the gap they fall.In addition to performing linear classification, SVMs can efficiently perform a non-linear classification using what is called the kernel trick, implicitly mapping their inputs into high-dimensional feature spaces.When data are not labeled, supervised learning is not possible, and an unsupervised learning approach is required, which attempts to find natural clustering of the data to groups, and then map new data to these formed groups. The support vector clustering[2] algorithm created by Hava Siegelmann and Vladimir Vapnik, applies the statistics of support vectors, developed in the support vector machines algorithm, to categorize unlabeled data, and is one of the most widely used clustering algorithms in industrial applications.", 
+    "deleted" : "false", 
+    "uniqueid" : "1"
+}

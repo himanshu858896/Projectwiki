@@ -1,0 +1,72 @@
+{ 
+    "_id" : ObjectId("5b18459dffc63719d8b58340"), 
+    "pname" : "Artifical Intellegence", 
+    "pphoto" : "https://www.analyticsinsight.net/wp-content/uploads/2018/04/AI234.jpeg", 
+    "types" : [
+        {
+            "name" : "Development"
+        }
+    ], 
+    "ptimestamp" : "2018:06:02 08:15:10", 
+    "deleted" : "false"
+}
+{ 
+    "_id" : ObjectId("5b1845b8ffc63719d8b58341"), 
+    "pname" : "Economics", 
+    "pphoto" : "https://www.master-and-more.eu/fileadmin/user_upload/Find_your_Masters/Master_degree_programmes/business_and_economics.jpg", 
+    "types" : [
+        {
+            "name" : "Bussiness"
+        }, 
+        {
+            "name" : "Expension"
+        }
+    ], 
+    "ptimestamp" : "2018-06-03 10:10:50", 
+    "deleted" : "false"
+}
+{ 
+    "_id" : ObjectId("5b1845c6ffc63719d8b58342"), 
+    "pname" : "Personal Development", 
+    "pphoto" : "http://outlookafghanistan.net/assets/2018/Personal%20Development%202018%2017.jpg", 
+    "types" : [
+        {
+            "name" : "Bug fixing"
+        }, 
+        {
+            "name" : "Health"
+        }
+    ], 
+    "ptimestamp" : "2018-06-03 10:10:50", 
+    "deleted" : "false"
+}
+{ 
+    "_id" : ObjectId("5b1845d3ffc63719d8b58343"), 
+    "pname" : "Android", 
+    "pphoto" : "http://moseax.co.ke/wp-content/uploads/2017/04/android-800x445.png", 
+    "types" : [
+        {
+            "name" : "Trend"
+        }, 
+        {
+            "name" : "Developers"
+        }
+    ], 
+    "ptimestamp" : "2018-06-02  04:50:20", 
+    "deleted" : "false"
+}
+{ 
+    "_id" : ObjectId("5b1845e3ffc63719d8b58344"), 
+    "pname" : "Machine Learning", 
+    "pphoto" : "https://i1.wp.com/enterpriseiotinsights.com/wp-content/uploads/2016/11/56637548_l.jpg", 
+    "types" : [
+        {
+            "name" : "Bug fixing"
+        }, 
+        {
+            "name" : "Development"
+        }
+    ], 
+    "ptimestamp" : "2018-06-02 10:10:50", 
+    "deleted" : "false"
+}

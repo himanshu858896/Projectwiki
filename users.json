@@ -1,0 +1,104 @@
+{ 
+    "_id" : ObjectId("5b1811f4f41f3306cd77e381"), 
+    "name" : "admin", 
+    "email" : "admin@gmail.com", 
+    "password" : "202cb962ac59075b964b07152d234b70", 
+    "phone" : "8510943364", 
+    "permission" : [
+        "true", 
+        "true", 
+        "true", 
+        "true", 
+        "true", 
+        "true", 
+        "true", 
+        "true", 
+        "true", 
+        "true", 
+        "true", 
+        "true"
+    ], 
+    "uphoto" : "https://d30y9cdsu7xlg0.cloudfront.net/png/17241-200.png", 
+    "userrole" : "SuperAdmin", 
+    "utimestamp" : "2018-06-04 12:26:19", 
+    "contributions" : "05", 
+    "deleted" : "false"
+}
+{ 
+    "_id" : ObjectId("5b17a9c266a195d40900002b"), 
+    "name" : "harshil", 
+    "email" : "harshil@gmail.com", 
+    "password" : "202cb962ac59075b964b07152d234b70", 
+    "phone" : "9650772752", 
+    "permission" : [
+        "false", 
+        "false", 
+        "true", 
+        "false", 
+        "true", 
+        "false", 
+        "true", 
+        "false", 
+        "true", 
+        "true", 
+        "true", 
+        "true"
+    ], 
+    "uphoto" : "https://d30y9cdsu7xlg0.cloudfront.net/png/17241-200.png", 
+    "userrole" : "Moderater", 
+    "utimestamp" : "2018-06-02 12:26:19", 
+    "contributions" : "02", 
+    "deleted" : "false"
+}
+{ 
+    "_id" : ObjectId("5b18245affc6370e6cde8cd7"), 
+    "name" : "sagar", 
+    "email" : "sagar@gmail.com", 
+    "password" : "133ac932875fa07310d26e4ffd1305a6", 
+    "phone" : "9312455508", 
+    "permission" : [
+        "true", 
+        "true", 
+        "true", 
+        "true", 
+        "true", 
+        "true", 
+        "true", 
+        "true", 
+        "true", 
+        "true", 
+        "true", 
+        "true"
+    ], 
+    "uphoto" : "https://d30y9cdsu7xlg0.cloudfront.net/png/17241-200.png", 
+    "userrole" : "Developer", 
+    "utimestamp" : "2018-06-02 12:26:19", 
+    "contributions" : "50", 
+    "deleted" : "false"
+}
+{ 
+    "_id" : ObjectId("5b184503ffc63719d8b5832d"), 
+    "name" : "Himanshu", 
+    "email" : "himanshu@gmail.com", 
+    "password" : "21d8b7225994fdf745cf4b0f05818dcd", 
+    "phone" : "9818107222", 
+    "permission" : [
+        "true", 
+        "true", 
+        "true", 
+        "true", 
+        "true", 
+        "true", 
+        "true", 
+        "true", 
+        "true", 
+        "true", 
+        "true", 
+        "true"
+    ], 
+    "uphoto" : "https://d30y9cdsu7xlg0.cloudfront.net/png/17241-200.png", 
+    "userrole" : "Developer", 
+    "utimestamp" : "2018-06-02 12:26:19", 
+    "contributions" : "10", 
+    "deleted" : "false"
+}
